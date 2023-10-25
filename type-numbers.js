@@ -18,6 +18,10 @@ const novaOperacao=primeironumero/numeropontoflutuante;
 
 console.log(novaOperacao);
 
-// NaN -> Not A NUMBer (não é numero)
+// NaN -> Not A Number (não é numero)
 const alura ="Alura";
-console.log
+
+console.log(alura * primeironumero);
+
+
+
