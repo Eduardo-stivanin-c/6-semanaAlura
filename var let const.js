@@ -7,7 +7,7 @@ var comprimento=7;
 area=altura*comprimento;
 console.log(area);
 var area;
-*/
+*//* parte de let
 let forma ='retângulo';
 let  altura=5;
 let  comprimento=7;
@@ -23,24 +23,25 @@ else{
 }
 
 console.log(area);
-
-/*
-const forma='quadrado';
+*/
+//varivel constANTE
+const forma='triângulo';
 const altura=5;
 const comprimento=7;
-const area =altura *comprimento;
-console.log(area);
+//let é mutavel o valor
+let area;
 
-/*
 
 if (forma==="quadrado") {
-    area =altura *comprimento;
+    area = altura * comprimento;
 
     
 }
-else(){
-    area =altura *comprimento/2;
+else{
+    area =(altura * comprimento)/2;
 
 }
-console.log(area)
-*/
+console.log(area);
+
+
+//JavaScript_%20O%20guia%20definitivo
